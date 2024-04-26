@@ -1,0 +1,18 @@
+﻿2024-03-21 11:22:34.784   Log opened. (Time zone: UTC+05:30)
+2024-03-21 11:22:34.784   Setup version: Inno Setup version 5.5.9 (u)
+2024-03-21 11:22:34.784   Original Setup EXE: C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~1\session\REPOSI~1\NERVEC~1\nervecenterdriverpatchfb4014.exe
+2024-03-21 11:22:34.784   Setup command line: /SL5="$703DC,582576,180224,C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~1\session\REPOSI~1\NERVEC~1\nervecenterdriverpatchfb4014.exe" /VERYSILENT /LOG="C:\Setup.log"
+2024-03-21 11:22:34.784   Windows version: 10.0.22621  (NT platform: Yes)
+2024-03-21 11:22:34.784   64-bit Windows: Yes
+2024-03-21 11:22:34.784   Processor architecture: x64
+2024-03-21 11:22:34.784   User privileges: Administrative
+2024-03-21 11:22:34.785   64-bit install mode: Yes
+2024-03-21 11:22:34.789   Created temporary directory: C:\Windows\TempInst\is-IRIFQ.tmp
+2024-03-21 11:22:34.792   Extracting temporary file: C:\Windows\TempInst\is-IRIFQ.tmp\devcon.exe
+2024-03-21 11:22:34.794   Extracting temporary file: C:\Windows\TempInst\is-IRIFQ.tmp\InstallSetting.exe
+2024-03-21 11:22:34.967   InstallParam=checknetfilter -netfilterver 4.0.1.4 InstallSettingCode=0
+2024-03-21 11:22:34.967   ResultCode=0
+2024-03-21 11:22:34.967   InitializeSetup returned False; aborting.
+2024-03-21 11:22:34.967   Got EAbort exception.
+2024-03-21 11:22:34.967   Deinitializing Setup.
+2024-03-21 11:22:34.968   Log closed.
